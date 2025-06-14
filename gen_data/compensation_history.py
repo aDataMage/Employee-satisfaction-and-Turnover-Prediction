@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from utils.random_date import random_date
+from employee_turnover_app.utils.helper import random_date
 
 np.random.seed(42)
 
